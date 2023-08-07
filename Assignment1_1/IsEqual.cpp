@@ -2,7 +2,8 @@
 #include <cctype>
 #include "IsEqual.h"
 
-bool areEqual(const char* str1, const char* str2, bool caseInsensitive) {
+bool areEqual(const char* str1, const char* str2, bool caseInsensitive)
+{
     int i = 0;
     while (str1[i] != '\0' && str2[i] != '\0') {
         if (caseInsensitive) { // Convert characters to lowercase before comparison
@@ -22,7 +23,8 @@ bool areEqual(const char* str1, const char* str2, bool caseInsensitive) {
     return false;
 }
 
-int displayResult(bool y) {
+int displayResult(bool y)
+{
     if (y) {
         std::cout << "Strings are equal." << std::endl;
         return 1;

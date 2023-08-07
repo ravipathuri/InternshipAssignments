@@ -2,7 +2,8 @@
 #include<cctype>
 #include "IsEqual.h"
 
-int main() {
+int main()
+{
     const int MAX_LENGTH = 100;
     char str1[MAX_LENGTH];
     char str2[MAX_LENGTH];
@@ -49,7 +50,7 @@ int main() {
     else
         std::cout << "Strings are not equal." << std::endl;*/
 
-   
+
 
 
 
