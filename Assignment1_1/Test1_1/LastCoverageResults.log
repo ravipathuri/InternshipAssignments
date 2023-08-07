@@ -1,0 +1,21 @@
+[2023-07-26 11:45:45] [info] Start Program:
+Path:"C:\\Users\\reuben.raju\\source\\repos\\Assignment1_1\\Debug\\Test1_1.exe"
+Arguments:
+Working directory: "C:\\Users\\reuben.raju\\source\\repos\\Assignment1_1\\Test1_1\\"
+Modules: Selected: C:\Users\reuben.raju\source\repos\Assignment1_1\Debug\Assignment1_1.exe C:\Users\reuben.raju\source\repos\Assignment1_1\Debug\Test1_1.exe Excluded: 
+Sources: Selected: C:\Users\reuben.raju\source\repos\Assignment1_1 C:\Users\reuben.raju\source\repos\Assignment1_1\Test1_1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\reuben.raju\AppData\Local\Temp\bpqylhhx.buc 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-07-26 11:45:45] [info] Module: C:\Users\reuben.raju\source\repos\Assignment1_1\Debug\Test1_1.exe is selected because it matches selected pattern: C:\Users\reuben.raju\source\repos\Assignment1_1\Debug\Test1_1.exe
+[2023-07-26 11:45:46] [info] ----------------------------------------------------
+[2023-07-26 11:45:46] [info] Coverage binary generated in file: C:\Users\reuben.raju\AppData\Local\Temp\bpqylhhx.buc
+[2023-07-26 11:45:46] [info] ----------------------------------------------------
