@@ -1,0 +1,2 @@
+C:\Users\reuben.raju\source\repos\Assignment1_2\Debug\Solution1_2.exe.lastcodeanalysissucceeded
+C:\Users\reuben.raju\source\repos\Assignment1_2\Solution1_2\Debug\NativeCodeAnalysis.read.1.tlog
